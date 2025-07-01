@@ -1,0 +1,29 @@
+title: "ツールの感想・評価"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ツールをご利用いただきありがとうございます！
+        使い心地やデザイン、機能についての感想・評価など、お気軽にお寄せください。
+
+  - type: textarea
+    id: good_points
+    attributes:
+      label: "気に入った点・良かった点"
+      description: "このツールのどんなところが好きですか？"
+      placeholder: "例：〇〇の機能が直感的で使いやすいです！"
+    validations:
+      required: true
+
+  - type: textarea
+    id: improvement_points
+    attributes:
+      label: "改善してほしい点"
+      description: "もっとこうだったら良いな、と思う点はありますか？"
+      placeholder: "例：〇〇のボタンが少し分かりにくいです。"
+
+  - type: textarea
+    id: other_comments
+    attributes:
+      label: "その他のコメント"
+      description: "その他、自由にコメントをどうぞ！"
