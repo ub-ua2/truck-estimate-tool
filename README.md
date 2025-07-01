@@ -24,5 +24,10 @@
 ## 免責事項
 このツールはUMEBANが善意で配布するものであり、ツールの使用によって生じたいかなる損害についても、作成者は一切の責任を負いません。自己責任でご利用ください。バグ報告や改善要望は歓迎しますが、対応を保証するものではありません。
 
+## フィードバックについて
+このツールをより良くしていくために、皆様からのご意見やご感想を募集しています。
+
+- **バグの報告や、具体的な機能の要望** → **[Issues](https://github.com/ub-ua2/truck-estimate-tool/issues)** タブからご報告ください。
+- **ツールの感想や、使い方に関する質問、雑談など** → **[Discussions](https://github.com/ub-ua2/truck-estimate-tool/discussions)** の掲示板へお気軽に書き込んでください。
 ---
 &copy; 2025 UMEBAN. All Rights Reserved.
