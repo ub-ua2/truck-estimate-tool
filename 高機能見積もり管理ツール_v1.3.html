@@ -121,7 +121,7 @@
                 estimateTree = getDefaultTree();
             }
         }
-        function getDefaultCompanies() { return [{ id: 1, name: '標準設定', laborRate: 3500 }]; }
+        function getDefaultCompanies() { return [{ id: 1, name: '標準設定', laborRate: 0 }]; }
         function getDefaultWorkMaster() { return [{id:1, large:"板金", medium:"あおり", small:"凹み修理", coefficient:1.5}, {id:2, large:"塗装", medium:"キャビン", small:"全塗装", coefficient:8.0}]; }
         function getDefaultMaterialMaster() { return [{id:1, large:"ボルト類", medium:"ステンレス", small:"M8x20mm", price:50}, {id:2, large:"鉄板", medium:"SS400", small:"3.2mm 1㎡", price:4500}]; }
         function getDefaultTree() { return [{ id: 1, name: 'ルート', type: 'folder', children: []}]; }
