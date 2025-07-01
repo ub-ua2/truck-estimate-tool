@@ -1,0 +1,23 @@
+title: "使い方に関する質問"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ツールの使い方に関する質問は、こちらにお書きください。
+        質問する前に、取扱説明書に同じ内容がないかご確認いただけると助かります。
+
+  - type: textarea
+    id: question_summary
+    attributes:
+      label: "質問の概要"
+      description: "何について知りたいですか？"
+      placeholder: "例：見積もりツリーのフォルダを削除する方法がわかりません。"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: tried_things
+    attributes:
+      label: "すでに試したこと"
+      description: "もし何かご自身で試したことがあれば教えてください。"
+      placeholder: "例：削除したいフォルダを選択してDeleteキーを押してみましたが、反応がありませんでした。"
