@@ -6,7 +6,7 @@
 
 ## ツールの利用方法
 
-**[ここをクリックしてツールを起動](https://ub-ua2.github.io/truck-estimate-tool/高機能見積もり管理ツール_v1.1.html)**
+**[ここをクリックしてツールを起動](https://ub-ua2.github.io/truck-estimate-tool/高機能見積もり管理ツール_v1.3.html)**
 
 詳しい使い方は、以下の取扱説明書をご覧ください。
 **[取扱説明書を読む](./取扱説明書.md)**
